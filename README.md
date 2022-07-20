@@ -1,7 +1,8 @@
 ### Hola 👋, Mi nombre es Arling
 #### Desarrollador web
 
-![Desarrollador web](https://github.githubassets.com/images/mona-loading-default.gif)(https://i.ibb.co/MSCQ3pg/banner-readme.jpg)
+![Desarrollador web](https://github.githubassets.com/images/mona-loading-default.gif)
+!(https://i.ibb.co/MSCQ3pg/banner-readme.jpg)
 
 Me desempeño como desarrollador fullstack, php, laravel, js, alpine, livewire, tailwind, bootstrap. Estoy haciendo un bootcamp, en es stack, js react y nodejs.
 
