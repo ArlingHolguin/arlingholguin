@@ -33,6 +33,6 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
 <div align="center">
   <p>Vistas</p>
   <img src="https://profile-counter.glitch.me/arling/count.svg?"  />
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arling) 
+  <p><a href="https://www.buymeacoffee.com/arling"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arling" /></a></p><br><br>
 </div>
  
