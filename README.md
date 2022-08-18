@@ -21,13 +21,9 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arlingholguin&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/arlingholguin)  
+![Profile views](https://gpvc.arturio.dev/arlingholguin)
 
-###
-
-<p><a href="https://www.buymeacoffee.com/arling"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arling" /></a></p><br><br>
-
-### ✍️ Dev Quote
+### ✍️ Dev's
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <div align="center">
