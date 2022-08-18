@@ -22,3 +22,9 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arlingholguin&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/arlingholguin)  
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
