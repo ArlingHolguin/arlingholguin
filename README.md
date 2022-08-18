@@ -23,8 +23,12 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
 
 ![Profile views](https://gpvc.arturio.dev/arlingholguin)  
 
-<br clear="both">
+<img href="https://raw.githubusercontent.com/arling/arling/blob/output/snake.svg" alt="Snake animation" />
 
-<img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/arling/count.svg?"  />
+</div>
 
 ###
