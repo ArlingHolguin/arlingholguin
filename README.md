@@ -32,3 +32,6 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
 <p><a href="https://www.buymeacoffee.com/arling"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arling" /></a></p><br><br>
 
 ###
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
