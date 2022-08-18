@@ -31,6 +31,7 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <div align="center">
+  <p>Vistas</p>
   <img src="https://profile-counter.glitch.me/arling/count.svg?"  />
 </div>
  
