@@ -29,7 +29,7 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
   <img src="https://profile-counter.glitch.me/arling/count.svg?"  />
 </div>
 <h3 align="right">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arling"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arling" /></a></p><br><br>
+<p align="right"><a href="https://www.buymeacoffee.com/arling"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arling" /></a></p><br><br>
 
 ###
 
