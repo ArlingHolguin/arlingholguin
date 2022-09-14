@@ -31,8 +31,7 @@ Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
   <img src="https://profile-counter.glitch.me/arling/count.svg?"  />
   <p><a href="https://www.buymeacoffee.com/arling"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/arling" /></a></p><br><br>
 </div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arlin-holguin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/arlin-holguin?trk=profile-badge">Arlin Holguin</a></div>
+
               
 
  
