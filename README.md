@@ -1,5 +1,5 @@
 ### Hola 👋, Mi nombre es Arling
-#### Desarrollador web <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
+#### Full Stack <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
 
 ![Desarrollador web](https://i.ibb.co/MSCQ3pg/banner-readme.jpg)
 
