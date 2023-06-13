@@ -4,12 +4,8 @@
 ![Desarrollador web](https://i.ibb.co/MSCQ3pg/banner-readme.jpg)
 
 
-Me desempeño como desarrollador fullstack, php, laravel, js, alpine, livewire, react, nextjs, typeScript, tailwind, bootstrap. Estoy haciendo un bootcamp, en es stack, js react y nodejs.
-
-Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
-
-- 🔭 Estoy trabajando en Como desarrollador web, stack Laravel, Alpine, livewire, tailwind 
-- 🌱 Estoy aprendiendo React nodejs 
+Me desempeño como desarrollador fullstack, php, laravel, js, alpine, livewire, react, nextjs, typeScript, tailwind, bootstrap.
+Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap, docker, git.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/arlingholguin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/arlin-holguin-8114a794/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/arling.holguin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/arling.holguin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='24'>](https://arling.pro)  [<img src='https://img.icons8.com/glyph-neue/64/000000/whatsapp.png' alt='whatsapp' height='40'>](https://wa.me/message/IBBAJ7QZNMNEB1)  
