@@ -4,7 +4,7 @@
 ![Desarrollador web](https://i.ibb.co/MSCQ3pg/banner-readme.jpg)
 
 
-Me desempeño como desarrollador fullstack, php, laravel, js, alpine, livewire, tailwind, bootstrap. Estoy haciendo un bootcamp, en es stack, js react y nodejs.
+Me desempeño como desarrollador fullstack, php, laravel, js, alpine, livewire, react, nextjs, typeScript, tailwind, bootstrap. Estoy haciendo un bootcamp, en es stack, js react y nodejs.
 
 Habilidades: php, laravel, livewire, alpine, js, css, html, tailwind, bootstrap
 
